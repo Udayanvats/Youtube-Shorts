@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105122880283",
+    "project_id": "grotask-6b996",
+    "storage_bucket": "grotask-6b996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105122880283:android:95fdce387200f70fb211be",
+        "android_client_info": {
+          "package_name": "com.example.grotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105122880283-kg90jaurfnd1sphl48akdemnv10vahju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTGFkJAvGwF39o-beORzfVhzPEE4_kUH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105122880283-kg90jaurfnd1sphl48akdemnv10vahju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
